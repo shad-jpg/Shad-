@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>shad amen</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    img { border-radius: 50%; width: 150px; }
+    a { color: #3366cc; text-decoration: none; margin: 10px; display: block; }
+  </style>
+</head>
+<body>
+  <img src="https://via.placeholder.com/150" alt="Your Photo">
+  <h1>Hello, I'm shad amen</h1>
+  <p>This is my free personal website.</p>
+  <a href="mailto: shad74180@gmail.com">📧 Contact Me</a>
+  <a href="https://www.linkedin.com">🔗 LinkedIn</a>
+</body>
+</html>
